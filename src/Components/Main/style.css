@@ -1,0 +1,13 @@
+.App-body {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #cccccc;
+}
+
+.colored-row {
+    flex: 1 0 33%;
+    height: 60px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
